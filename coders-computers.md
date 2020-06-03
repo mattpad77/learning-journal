@@ -10,4 +10,5 @@
 * To Open terminal: Terminal then applications then Utilities. 
 * The terminal is full of tons of tools and all kinds of commands that you can access throughout your computer.
 
-## 
+## Basic Navigation
+* PWD Stands for Print Working Directory.
