@@ -17,3 +17,6 @@
 > + item one (+)
 > * item two (*)
 > - item three (-)
+
+## GitHub Pages
+> GitHub allows you to build and share code/webpages and GitHub Pages allows you to publish all the things you build on GitHub to the internet. 
