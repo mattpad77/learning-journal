@@ -18,3 +18,6 @@
 >  Local mostly relies on local operatioons because it is faster to retreive information needed locally rather than waiting to fetch info from the server.
 
 ![Version Control System](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.v0U_xQfSGcQyzCj2I4xz9QHaFs%26pid%3DApi&f=1)
+
+> #### *Committed* -Data is securely stored in a local database.
+> #### *Modified* -File has been changed but not committed to the database.
