@@ -2,6 +2,7 @@
 
 ## Div
 > Web developers use the div element to group together related elements. Developers use the class or id elements to indicate the role of the div element.
+> `<div>`
 
 ## Header's & Footer's
 > The main two areas on the top and bottom of the page. The header usually contains the logo, main, and nav. The Footer usually contains copyright information and can also contain a seperate nav.
