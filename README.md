@@ -6,3 +6,4 @@
 - [Git VS GitHub](git-github.md)
 - [HTML Notes](html-notes.md)
 - [CSS Color Notes](css-color.md)
+- [JavaScript Notes](js-notes.md)
