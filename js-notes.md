@@ -5,6 +5,14 @@
 
 # Key Terms
 > + Script can be used to load a css file. 
-  + Link can be used to load a JavaScript file.  
+> + Link can be used to load a JavaScript file.  
+> + Operators
+> + Variables
+> + Case Sensitive
+> + Comments
+> + quantities
+> + Numeric Data Type
+> + String Data Type
+> + Boolean Data Type
 
   
